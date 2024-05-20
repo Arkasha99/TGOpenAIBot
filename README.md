@@ -14,8 +14,8 @@
 ## Настройка проекта
 1. Склонируйте репозиторий:
    ```sh
-    git clone https://github.com/yourusername/telegram-chatbot.git
-    cd telegram-chatbot
+    git clone https://github.com/Arkasha99/TGOpenAIBot.git
+    cd dir
     ```
 2. Создайте venv:
    ```sh
