@@ -41,9 +41,9 @@
    ```sh
     NGROK_URL=your-ngrok-url
    ```
-3. Релоадим проект
+3. Ребилдим проект
     ```sh
-    docker-compose restart fastapi-app
+    docker-compose up -d --build
     ```
 4. Чтобы убедиться что вебхук работает в браузере отправляем запрос вида
    ```sh
